@@ -1,0 +1,29 @@
+.leftMenu {
+    width: 200px;
+    background-color: #f0f0f0;
+    padding: 1rem;
+    transition: width 0.3s ease;
+  }
+  
+  .collapsed {
+    width: 50px;
+  }
+  
+  .toggleButton {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+  
+  @media (max-width: 768px) {
+    .leftMenu {
+      width: 100%;
+    }
+    
+    .collapsed {
+      width: 100%;
+    }
+  }
+  
+  

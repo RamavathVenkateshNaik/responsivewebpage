@@ -1,0 +1,13 @@
+.rightPanel {
+    width: 200px;
+    background-color: #e0e0e0;
+    padding: 1rem;
+  }
+  
+  @media (max-width: 768px) {
+    .rightPanel {
+      width: 100%;
+    }
+  }
+  
+  
