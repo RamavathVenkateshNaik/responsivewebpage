@@ -16,7 +16,7 @@ TypeScript
 CSS Modules
 
 **Getting Started**
-To run this project locally:
+To run this project locally: https://github.com/RamavathVenkateshNaik/responsivewebpage
 
 
 
