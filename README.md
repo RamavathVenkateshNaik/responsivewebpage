@@ -21,5 +21,5 @@ This project is a responsive webpage created as part of a frontend development a
 
 To run this project locally:
 
-1. Clone the repository: github.com/latha0001/Responsive-webpage/
+1. Clone the repository: https://github.com/RamavathVenkateshNaik/responsivewebpage
 
