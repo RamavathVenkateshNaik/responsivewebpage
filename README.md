@@ -1,24 +1,25 @@
-## Getting Start
-**Responsive Webpage Assignment**
-• This project is a responsive webpage created as part of a frontend development assignment. It demonstrates various responsive design techniques and JavaScript functionality for 
-   adjusting page layout based on screen size.
+# Responsive Webpage Assignment
 
-**Features**
-• Fixed navbar that doesn't move when scrolling
-•  Three-section layout: left menu, main content area, and right-side panel
-• Footer at the bottom of the page
-• Collapsible left menu
-• Responsive design with custom scaling based on screen width
+This project is a responsive webpage created as part of a frontend development assignment. It demonstrates various responsive design techniques and JavaScript functionality for adjusting page layout based on screen size.
 
-**Technologies Used**
-• Next.js 13 (with App Router)
-• React
-• TypeScript
-• CSS Modules
+## Features
 
-**Getting Started**
-• To run this project locally: https://github.com/RamavathVenkateshNaik/responsivewebpage
+- Fixed navbar that doesn't move when scrolling
+- Three-section layout: left menu, main content area, and right-side panel
+- Footer at the bottom of the page
+- Collapsible left menu
+- Responsive design with custom scaling based on screen width
 
+## Technologies Used
 
+- Next.js 13 (with App Router)
+- React
+- TypeScript
+- CSS Modules
 
+## Getting Started
+
+To run this project locally:
+
+1. Clone the repository: github.com/latha0001/Responsive-webpage/
 
