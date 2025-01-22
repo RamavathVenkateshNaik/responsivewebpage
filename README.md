@@ -1,22 +1,23 @@
-## Getting Started
+## Getting Start
+**Responsive Webpage Assignment**
+This project is a responsive webpage created as part of a frontend development assignment. It demonstrates various responsive design techniques and JavaScript functionality for adjusting page layout based on screen size.
 
-First, run the development server:
+**Features**
+Fixed navbar that doesn't move when scrolling
+Three-section layout: left menu, main content area, and right-side panel
+Footer at the bottom of the page
+Collapsible left menu
+Responsive design with custom scaling based on screen width
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Technologies Used**
+Next.js 13 (with App Router)
+React
+TypeScript
+CSS Modules
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Getting Started**
+To run this project locally:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 
 
